@@ -43,7 +43,7 @@ intermediate, and advanced multimedia concepts.
 ## Repository Structure
 
 ```text
-IC-2K22-96-MS--Vaishnavi-Shrivas/
+IC-2K22-64-MS-Priyanka_Dehariya/
 │
 ├── Cluster01-Multimedia-Fundamentals/
 ├── Cluster02-Image-Processing/
